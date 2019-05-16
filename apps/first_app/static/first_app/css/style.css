@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.cat {
+    background-color: blue;
+    color: white;
+}
+
+.dog {
+    background-color: green;
+    color: white;
+}
